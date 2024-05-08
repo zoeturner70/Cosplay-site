@@ -44,6 +44,8 @@ body {
             margin: auto;
             width: fit-content;
 }
+
+*
 .btn-group button {
             background-color: #88DEC3;
             border: 0.2vw solid #366959d8;
