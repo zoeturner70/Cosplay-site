@@ -59,6 +59,7 @@ body {
 @media (max-width: 1800px) {
   .btn-group button {
     font-size: 2.5vw; 
+    margin: auto;
   }}
  
 /*Click and hover styles*/
