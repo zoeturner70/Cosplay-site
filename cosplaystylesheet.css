@@ -49,11 +49,15 @@ body {
             border: 0.2vw solid #366959d8;
             width: fit-content;
             color: #7030A0;
-            font-size: 100%;
+            font-size: 1.2vw;
             cursor: pointer;
             font-family:'Poppins', sans-serif;
             display: inline;
             }
+@media (max-width: 1800px) {
+  .btn-group button {
+    font-size: 0.8vw;
+  }}
  
 /*Click and hover styles*/
 .button2:hover {
