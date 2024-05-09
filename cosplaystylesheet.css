@@ -201,17 +201,17 @@ img{
 
 
 
+
 footer {
               position: fixed;
               left: 0;
               bottom: 0;
 
               width: 100%;
-              height: auto;
+              height:4%;
               text-align: center;
               border: 1px solid #366959d8;
-              font-size: 0.58w;
-              padding-top: 0.2px;
+              font-size: 55%;
 
               background-color: #88DEC3 ;
               color: #7030A0;
