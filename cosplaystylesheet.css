@@ -201,7 +201,7 @@ img{
 
 
 
-
+*
 footer {
               position: fixed;
               left: 0;
@@ -217,7 +217,14 @@ footer {
               color: #7030A0;
               font-family:'Poppins', sans-serif;
             }
-               
+  @media (max-width: 1800px) {
+              .footer {
+                height: 10%;
+     
+              
+              }
+            }              
+                  
                     
 .flex-container {
   display: flex;
