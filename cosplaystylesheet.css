@@ -216,7 +216,7 @@ footer {
               color: #7030A0;
               font-family:'Poppins', sans-serif;
             }
-@media (min-width: 1800px) {
+@media (max-width: 1800px) {
               footer {
                 font-size: 50px;
                 
